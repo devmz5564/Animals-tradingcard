@@ -1,0 +1,42 @@
+
+ /* my css*/
+ .card{
+   max-width: 400px;
+   margin: auto;
+   box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+   text-align: auto;
+   background-color: #dcdcbc;
+   border-radius: 5px 5px 0px 0px;
+ }
+ .name{
+     text-align: center;
+     font-size: 20px;
+ }
+ .img{
+     width: 300px;
+     height: 300px;
+     margin-left: 50px;
+     border-radius: 5px;
+ }
+ .information{
+  border-style: double;
+  border-radius: 5px;
+  width: 295px;
+  margin-left: 50px;
+ }
+.intersting_fact{
+    font-style: italic;
+    padding-left: 5px;
+    font-size: 15px;  
+}
+.info{
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+    
+}
+.about{
+    padding-left: 5px;
+    font-size: 15px; 
+}
